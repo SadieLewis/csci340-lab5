@@ -10823,4 +10823,9 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+  .buttons-soda{
+    margin: 10px;
+    border: 5px #000 solid;
+    color: #0bd258;
+  }
 }
